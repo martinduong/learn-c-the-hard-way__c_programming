@@ -1,0 +1,70 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun May  7 09:09:57 2023
+;; Desktop file format version 208
+;; Emacs version 27.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25687 27365 482206 101000) (desktop . "208") "martichoke@ubuntu-s-1vcpu-512mb-10gb-syd1-01" nil nil ((((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (tool-bar-lines . 0) (vertical-scroll-bars) (menu-bar-lines . 0) (foreground-color . "#eaeaea") (background-color . "#000000") (right-divider-width . 0) (bottom-divider-width . 0) (border-color . "#424242") (font . "tty") (height . 13) (width . 93) (modeline . t) (unsplittable) (tab-bar-lines . 0) (internal-border-width . 0) (frameset--id . "1B54-1432-A0E4-0E01") (frameset--mini t) (frameset--text-pixel-width . 93) (frameset--text-pixel-height . 13)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 93) (pixel-height . 12) (total-width . 93) (total-height . 12) (normal-height . 1.0) (normal-width . 1.0) (buffer "ex3.c" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 103) (start . 1)) (prev-buffers ("Makefile" 1 22) ("ex3.c" 1 149) ("Ex3" 1 393) ("*scratch*" 1 46))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("eshell" "eval-buffer" "org-do-demote" "recentf-open-files" "org-do-promote" "org-do-demote" "eval-buffer" "org-do-demote" "org-do-promote" "recentf-open-files" "org-metadown" "outline-demote" "org-do-promote" "outline-promote" "recentf-open-files"))
+(setq face-name-history nil)
+(setq file-name-history '("~/22.01_learncthehardway/Ex3/" "~/22.01_learncthehardway/Ex3/Makefile" "~/22.01_learncthehardway/Ex3/ex3.c" "~/22.01_learncthehardway/Ex3/" "~/22.01_learncthehardway/scratch/Makefile" "~/.emacs.d/custom.el" "~/22.01_learncthehardway/22.00_outline.org" "~/22.01_learncthehardway/scratch/Makefile" "~/22.01_learncthehardway/Ex2/Makefile" "~/22.01_learncthehardway/Ex2/" "~/22.01_learncthehardway/22.00_outline.org" "~/22.01_learncthehardway/outline.org" "~/22.01_learncthehardway/Ex2/ex1.c" "~/22.01_learncthehardway/Ex2/Makefile" "~/.emacs.d/custom.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/init.el" "~/21_01-20230501-intro_to_org_mode/21_02-20230501-org_babel_testbed.org" "~/.emacs.d/eshell/alias" "~/22.01_learncthehardway/ex1.c" "~/.emacs.d/custom.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/init.el" "~/21_01-20230501-intro_to_org_mode/21_02-20230501-org_babel_testbed.org" "~/.emacs.d/custom.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/init.el" "~/21_01-20230501-intro_to_org_mode/21_02-20230501-org_babel_testbed.org" "~/.emacs.d/custom.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/init.el" "~/21_01-20230501-intro_to_org_mode/21_02-20230501-org_babel_testbed.org" "~/.emacs.d/custom.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/init.el" "~/21_01-20230501-intro_to_org_mode/21_02-20230501-org_babel_testbed.org" "~/.emacs.d/custom.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/init.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "/usr/share/emacs/27.1/etc/HELLO" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/21_01-20230501-intro_to_org_mode/" "~/.emacs.d/custom.el" "~/21_01-20230501-intro_to_org_mode/google_tech_talks.org" "~/.emacs.d/custom.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq minibuffer-history '("q" "d"))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring '(#("#+" 0 2 (isearch-case-fold-search t))))
+(setq register-alist nil)
+(setq search-ring '(#("\\" 0 1 (isearch-regexp-function nil isearch-case-fold-search t)) #("age" 0 3 (isearch-regexp-function nil isearch-case-fold-search t)) #("init" 0 4 (isearch-regexp-function nil isearch-case-fold-search t))))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/martichoke/22.01_learncthehardway/Ex3/ex3.c"
+  "ex3.c"
+  'c-mode
+  '(abbrev-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode global-auto-revert-mode anzu-mode dimmer-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flymake-mode)
+  103
+  '(95 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25687 27358 619221 84000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (136 67 79))))
+
+(desktop-create-buffer 208
+  "/home/martichoke/22.01_learncthehardway/Ex3/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode global-auto-revert-mode anzu-mode dimmer-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flymake-mode)
+  22
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (indent-tabs-mode . t) (buffer-display-time 25686 59932 735830 274000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "Ex3"
+  'dired-mode
+  '(immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode global-auto-revert-mode anzu-mode dimmer-mode diff-hl-dired-mode)
+  393
+  '(nil nil)
+  t
+  '("/home/martichoke/22.01_learncthehardway/Ex3/")
+  '((buffer-display-time 25686 59697 916532 709000))
+  '((mark-ring nil)))
+

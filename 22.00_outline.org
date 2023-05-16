@@ -1,0 +1,19 @@
+* Learning C the hard way
+
+** ex 1. firing up the C machine
+*** Learnings
+**** What is all the random stuff in the main function?
+     Mainly command flags
+**** How should I be learning the content?
+- Don't dual screen it. Work on typing and remembering the args using /recall/
+- Double check it usining diff
+*** Problems
+- Type in what you see in the source code as exactly as you can see it.
+
+** ex 2. the makefile
+*** Learnings
+    A way to automate the build process
+    "it is all mainly **arcane** law and dependencies"
+        - Zed Shaw. Lecture 2 video (paraphrased)
+*** Extra resources
+https://makefiletutorial.com/
