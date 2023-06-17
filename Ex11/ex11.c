@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
   int numbers[4] = { 0 };
-  char name[4] = { a };
+  char name[4] = { 'a' };
 
   //first print them out raw
   printf("numbers: %d, %d, %d, %d\n",
@@ -39,9 +39,9 @@ int main(int argc, char *argv[])
   //another way to print a string
   char *another ="Zed";
 
-  print("another: %s\n", another);
+  printf("another: %s\n", another);
 
-  print("another each: %c %c %c %c\n",
+  printf("another each: %c %c %c %c\n",
 	another[0], another[1], another[2], another[3]);
   
   return 0;
